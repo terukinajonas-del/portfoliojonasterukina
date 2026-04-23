@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from './components/Hero';
 import Experience from './components/Experience';
 import Results from './components/Results';
+import Cases from './components/Cases';
 import Methodology from './components/Methodology';
 import Contact from './components/Contact';
 
@@ -11,6 +12,7 @@ const App: React.FC = () => {
       <Hero />
       <Experience />
       <Results />
+      <Cases />
       <Methodology />
       <Contact />
       
